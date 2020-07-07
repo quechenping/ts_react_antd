@@ -5,7 +5,7 @@ import { hot } from "react-hot-loader";
 const About = hot(module)(() => {
   return (
     <div id="div2">
-      hello world
+      hello world hush
       <img src={oimg}></img>
     </div>
   );
